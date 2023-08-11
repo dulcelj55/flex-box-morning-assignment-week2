@@ -1,0 +1,63 @@
+.site-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+  border: 20px;
+  padding: 50px;
+  background-color: rgb(55, 196, 243);
+  font-size: 20px;
+
+}
+
+#sidebar {
+  margin: 20px;
+  padding: 30px;
+  border: 20px;
+  background-color: white;
+  background-color: rgb(55, 196, 243);
+  font-size: 20px;
+  max-width: 250px;
+  align-items: center;
+}
+
+.bar {
+  padding: 30px;
+}
+
+.sidebar {
+  Display: flex;
+  flex-direction: column;
+
+
+
+}
+
+.site-donate {
+  background-color: lightgreen;
+  padding: 50px;
+
+}
+
+.inside {
+ 
+  
+  border-radius: 25px;
+  background-color: lightblue;
+  border-radius: 25px;
+
+}
+
+.site-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+  border: 20px;
+  padding: 50px;
+  background-color: rgb(55, 196, 243);
+  font-size: 20px;
+
+
+
+}
